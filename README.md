@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlejoGfe
+- 👋 Hi, I’m @AlejoOrellano
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning JavaScript and Git
 - 📫 Email me -> alejo.orellanodev@gmail.com
